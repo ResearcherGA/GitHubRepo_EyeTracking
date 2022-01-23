@@ -18,5 +18,7 @@ The parameters of eye movement data intended such as,
 
 
 
-<img width="500" alt="Eye Tracker" src="https://user-images.githubusercontent.com/98272812/150686560-4a4e5259-00d4-4d3b-a2ed-3c77b8878a2a.PNG">
+<img width="600" alt="Eye Tracker" src="https://user-images.githubusercontent.com/98272812/150686560-4a4e5259-00d4-4d3b-a2ed-3c77b8878a2a.PNG">
 
+
+![Green Hill Stimulus Object](https://user-images.githubusercontent.com/98272812/150687056-a7754533-f627-44a2-ac4d-3426050ca60e.jpg)
